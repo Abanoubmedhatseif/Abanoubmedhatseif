@@ -22,6 +22,7 @@
     ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
     ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwindcss)&nbsp;
+    ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
     ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 - 🛢 &nbsp;
