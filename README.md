@@ -19,7 +19,6 @@
 - 🌐 &nbsp;
     ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
     ![ReactQuery](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactquery)&nbsp;
-    ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
     ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwindcss)&nbsp;
     ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
